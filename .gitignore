@@ -1,0 +1,14 @@
+# Absolutely no raw trace, account materials, installed binaries, or credentials in Git.
+runs/
+subjects/
+*.pml
+*.etl
+*.pcap
+*.pcapng
+*.dmp
+*.har
+*.key
+*.pem
+.env*
+__pycache__/
+.pytest_cache/
